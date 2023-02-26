@@ -9,7 +9,7 @@
 - 😄 Pronouns: he/him
 - 📫 Reach me @[LinkedIn](https://linkedin.com/janirvinfabon)
 
-I'm diving into the Vue.JS framework alongside the Laravel Framework. Kudos to both of the teams of Vue.JS and Laravel.
+Currently, I am utilizing the AWS Serverless framework in my projects and dedicating my free time to studying PHP Laravel and VueJS as frontend.
 
 ## Personal Site
 You may check out my portfolio website at
