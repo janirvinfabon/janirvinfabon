@@ -12,10 +12,9 @@
 I'm diving into the Vue.JS framework alongside the Laravel Framework. Kudos to both of the teams of Vue.JS and Laravel.
 
 ## Personal Site
-
 You may check out my portfolio website at
-- [mstr.irving.com](https://mstr.irving.com/)
-- [mang-irvings-portfolio.000webhostapp.com](https://mang-irvings-portfolio.000webhostapp.com/)
+- <a href="https://mstr.irving.com/" target="_blank" alt="mstr.irving.com">mstr.irving.com</a>
+- <a href="https://mang-irvings-portfolio.000webhostapp.com/" target="_blank" alt="portfolio">mang-irvings-portfolio.000webhostapp.com</a>
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=janirvinfabon&show_icons=true&theme=bear" width="400"/>
