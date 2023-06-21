@@ -1,4 +1,4 @@
-[![MasterHead](https://blogs.sap.com/wp-content/uploads/2021/02/1ea2bf43d262adc533f6ba78a7772a9c.gif)](https://mstr.irving.com)
+[![MasterHead](https://blogs.sap.com/wp-content/uploads/2021/02/1ea2bf43d262adc533f6ba78a7772a9c.gif)](https://portfolio.mstrirving.com)
 
 <h1 align="center">Hi 👋, I'm Jan Irvin Fabon</h1>
 <h3 align="center">A passionate software developer from PH.</h3>
@@ -13,8 +13,8 @@ Currently, I am utilizing the AWS Serverless framework in my projects and dedica
 
 ## Personal Site
 You may check out my portfolio website at
-- <a href="https://mstr.irving.com/" target="_blank" alt="mstr.irving.com">mstr.irving.com</a>
-- <a href="https://mang-irvings-portfolio.000webhostapp.com/" target="_blank" alt="portfolio">mang-irvings-portfolio.000webhostapp.com</a>
+- <a href="https://mstrirving.com/" target="_blank" alt="mstrirving.com">mstrirving.com</a>
+- <a href="https://portfolio.mstrirving.com" target="_blank" alt="portfolio">portfolio.mstrirving.com</a>
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=janirvinfabon&show_icons=true&theme=bear" width="400"/>
