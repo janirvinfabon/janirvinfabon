@@ -7,7 +7,7 @@
 - 🔭 I'm currently working as a Asst. Manager - Software Developer
 - 🌱 Learning other tools like Laravelv5.4, AngularJS, VueJS, Jenkins and CICD
 - 😄 Pronouns: he/him
-- 📫 Reach me @[LinkedIn](www.linkedin.com/in/janirvinfabon)
+- 📫 Reach me <a href="https://www.linkedin.com/in/" target="_blank" alt="linkedin">@LinkedIn</a>
 
 Currently, I am utilizing the AWS Serverless framework in my projects and dedicating my free time to studying PHP Laravel and VueJS as frontend.
 
