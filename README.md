@@ -7,13 +7,12 @@
 - 🔭 I'm currently working as a Asst. Manager - Software Developer
 - 🌱 Learning other tools like Laravelv5.4, AngularJS, VueJS, Jenkins and CICD
 - 😄 Pronouns: he/him
-- 📫 Reach me @[LinkedIn](https://linkedin.com/janirvinfabon)
+- 📫 Reach me @[LinkedIn](www.linkedin.com/in/janirvinfabon)
 
 Currently, I am utilizing the AWS Serverless framework in my projects and dedicating my free time to studying PHP Laravel and VueJS as frontend.
 
 ## Personal Site
 You may check out my portfolio website at
-- <a href="https://mstrirving.com/" target="_blank" alt="mstrirving.com">mstrirving.com</a>
 - <a href="https://portfolio.mstrirving.com" target="_blank" alt="portfolio">portfolio.mstrirving.com</a>
 
 ## Stats
