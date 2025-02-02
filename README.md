@@ -13,7 +13,7 @@ Currently, I am utilizing the AWS Serverless framework in my projects and dedica
 
 ## Personal Site
 You may check out my portfolio website at
-- <a href="https://portfolio.mstrirving.com" target="_blank" alt="portfolio">portfolio.mstrirving.com</a>
+- <a href="https://www.mstrirving.com" target="_blank" alt="portfolio">www.mstrirving.com</a>
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=janirvinfabon&show_icons=true&theme=bear" width="400"/>
