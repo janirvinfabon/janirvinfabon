@@ -4,7 +4,7 @@
 <h3 align="center">A passionate software developer from PH.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-- 🔭 I'm currently working as a Asst. Manager - Software Developer
+- 🔭 I'm currently working as a Manager - Software Developer
 - 🌱 Learning other tools like Laravelv5.4, AngularJS, VueJS, Jenkins and CICD
 - 😄 Pronouns: he/him
 - 📫 Reach me <a href="https://www.linkedin.com/in/" target="_blank" alt="linkedin">@LinkedIn</a>
